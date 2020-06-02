@@ -1,2 +1,2 @@
 # Robust-SSA
-Some files for Masters Thesis
+Masters Thesis "Robust versions of the singular spectrum analysis method"
